@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 360a039399db35049a729ab272b00e69, type: 3}
+  m_Name: EquipmentInventory
+  m_EditorClassIdentifier: 
+  Database: {fileID: 11400000, guid: 3261008aa81e5c44fba8380c5e6e42d4, type: 2}
+  BackPack:
+    Items:
+    - AllowedItem: 0200000003000000
+      parent: {fileID: 0}
+      item:
+        Name: 
+        Id: 0
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItem: 01000000
+      parent: {fileID: 0}
+      item:
+        Name: 
+        Id: 0
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItem: 05000000
+      parent: {fileID: 0}
+      item:
+        Name: 
+        Id: 0
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItem: 0200000003000000
+      parent: {fileID: 0}
+      item:
+        Name: 
+        Id: 0
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItem: 04000000
+      parent: {fileID: 0}
+      item:
+        Name: 
+        Id: 0
+        buffs: []
+      amount: 0
+      ID: -1
